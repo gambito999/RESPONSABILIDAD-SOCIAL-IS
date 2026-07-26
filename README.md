@@ -23,3 +23,6 @@ Utilizar las herramientas básicas de GitHub para registrar los aportes, organiz
 ## Uso de GitHub
 
 GitHub permitirá almacenar los documentos del proyecto, registrar sus modificaciones y organizar las tareas académicas. No se utilizará programación, porque el propósito es demostrar cómo la plataforma contribuye a una actuación ética y responsable.
+## Avance del proyecto
+
+Se creó un documento de normas éticas y una tarea para verificar las referencias académicas. La actividad de verificación todavía se encuentra pendiente.
